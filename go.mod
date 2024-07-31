@@ -1,4 +1,4 @@
-module git.ingcreations.com/ingcreations-golang/redis-kits
+module github.com/penjon/jorediskits
 
 go 1.14
 
